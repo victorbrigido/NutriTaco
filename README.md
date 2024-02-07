@@ -1,5 +1,5 @@
-Descrição
-Uma aplicação móvel projetada para ajudar os usuários a obter informacoes nutritivas sobre alimentos. Com uma interface facil e intuitiva e recursos poderosos.
+
+Uma aplicação projetada para ajudar os usuários a obter informacoes nutritivas sobre alimentos. Com uma interface facil e intuitiva e recursos poderosos.
 
 Principais Características
 
