@@ -24,3 +24,13 @@ Principais Características
 <img width="368" alt="Captura de Tela 2024-02-07 às 15 45 37" src="https://github.com/victorbrigido/NutriTaco/assets/110338761/c8d9dd0c-13ea-4b5a-a726-bad8f6def685">
 
 
+**Swift e SwiftU**I: Utilização da linguagem de programação Swift e do framework SwiftUI para o desenvolvimento da interface do usuário e da lógica do aplicativo.
+
+**JSON Serialization e Decoding**: Manipulação de dados em formato JSON utilizando as APIs nativas do Swift para serialização e decodificação de objetos JSON em estruturas de dados utilizadas pelo aplicativo.
+
+**ViewModels**: Utilização de ViewModels para separar a lógica de negócios da camada de visualização, seguindo as práticas recomendadas de arquitetura MVVM (Model-View-ViewModel).
+
+**TabView e NavigationView**: Implementação de navegação entre diferentes telas usando TabView e NavigationView para criar uma experiência de usuário intuitiva e fluida.
+
+
+
